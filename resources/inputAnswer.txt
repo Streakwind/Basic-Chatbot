@@ -1,0 +1,40 @@
+Hi!
+How are you?
+Hello.
+Hi!
+How are you?
+That's great!|Good.
+That's sad.
+:(
+Oh well.
+:(
+Amazing!
+Thanks.
+Decent.
+:)|Interesting.
+Thanks.
+Bye
+Hello, let's talk.
+How are you?|Hi!
+Good.
+That's great!
+That's great!
+Bye|Thanks.
+:(
+Bye
+:)
+Bye
+Hello!
+How are you?|Hi!|Hello!|Hello!
+Bad.
+That's sad.|I'm sorry.|Oh well.
+I'm sorry.
+:(
+Interesting.
+:)
+Good!
+That's cool.|Glad to hear that!|Amazing!
+That's cool.
+Thanks.
+Glad to hear that!
+Thanks.
